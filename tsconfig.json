@@ -5,10 +5,10 @@
     "strict": true,
     "esModuleInterop": true,
     "outDir": "./dist",
-    "rootDir": "google-services-app/src"
+    "rootDir": "./src"
   },
   "include": [
-    "google-services-app/src/**/*.ts"
+    "./src/**/*.ts"
   ],
   "exclude": [
     "node_modules"
